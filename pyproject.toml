@@ -1,9 +1,13 @@
 [tool.poetry]
 name = "dynamite-cli"
-version = "0.1.1"
+version = "0.1.2"
 description = ""
 authors = ["softwarebloat <softwarebloat@gmail.com>"]
+license="MIT"
 readme = "README.md"
+homepage = "https://github.com/softwarebloat/dynamite-cli"
+repository = "https://github.com/softwarebloat/dynamite-cli"
+documentation = "https://github.com/softwarebloat/dynamite-cli"
 
 [tool.poetry.scripts]
 dynamite-cli = "dynamite_cli.main:app"
