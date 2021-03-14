@@ -6,11 +6,7 @@ A cli to copy dynamo table items to another table
 You need [poetry](https://python-poetry.org/) as a dependency manager
 
 ## Installation
-Through **pip**  
 `pip install dynamite-cli`
-
-Through **poetry**  
-`poetry install dynamite-cli`   
 
 ## Usage
 You can print an help menu with `dynamite-cli --help`
